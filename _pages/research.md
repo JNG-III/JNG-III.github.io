@@ -25,7 +25,7 @@ My other project in the Hamlin group relates to the experimental problem of synt
 * G. Di Gianluca, J. Niedel, J. Esquivel, **J.N. Grossmann III**, T. Miniati, M. Crossman, Z. Li, P. Prakash, B. Geisler, J. Kim, R. Hennig, P. Hirschfeld, G. Stewart, J.J. Hamlin, "Synthesizability of Computationally Predicted Novel Materials," University of Florida Department of Physics Research Poster Presentation Session 2026.
 
 <p float="left">
-  <img src="../images/IMG_4143.jpg" width="49.5%" />
+  <img src="../images/IMG_4143.JPG" width="49.5%" />
   <img src="../images/jamesposter.png" width="49.5%" />
 </p>
 
