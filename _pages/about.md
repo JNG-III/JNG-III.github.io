@@ -11,10 +11,6 @@ My name is James Grossmann. I am an undergraduate physics major at the Universit
 *  B.S. in Physics, University of Florida (expected)
 *  B.A. in Political Science, University of Florida (expected)
 
-## Research Interests
-*   **Evolutionism & Imperialism:** Transnational circulation of modern political concepts.
-*   **Comparative Politics:** Regional tracking of discourse and philosophy.
-
 
 (This website is powered by the "Academic Pages" GitHub template. You can learn more about the template [here](https://github.com/academicpages/academicpages.github.io).)
 
