@@ -24,6 +24,11 @@ My other project in the Hamlin group relates to the experimental problem of synt
 * G. Di Gianluca, J. Niedel, J. Esquivel, **J.N. Grossmann III**, T. Miniati, M. Crossman, Z. Li, P. Prakash, B. Geisler, J. Kim, R. Hennig, P. Hirschfeld, G. Stewart, J.J. Hamlin, "Synthesizability of Computationally Predicted Novel Materials," University of Florida Center for Undergraduate Research 2026 Spring Symposium.
 * G. Di Gianluca, J. Niedel, J. Esquivel, **J.N. Grossmann III**, T. Miniati, M. Crossman, Z. Li, P. Prakash, B. Geisler, J. Kim, R. Hennig, P. Hirschfeld, G. Stewart, J.J. Hamlin, "Synthesizability of Computationally Predicted Novel Materials," University of Florida Department of Physics Research Poster Presentation Session 2026.
 
+<p float="left">
+  <img src="images/IMG_4143.jpg" width="49.5%" />
+  <img src="images/jamesposter.png" width="49.5%" />
+</p>
+
 Li Group -- The Pennsylvania State University REU Program
 ======
 
@@ -32,7 +37,11 @@ I participated in the 2026 Sustainable Physics and Materials REU program at The 
 I synthesized various STO(111) 2DEG devices that were stable in ambient conditions via a photolithography and sputtering process in the Penn State Materials Research Institute Nanofabrication Lab (Cleanroom). I investigated the effects of air exposure and sputtering pressure on the resulting device mobility. I was able to identify physical parameters and conditions that allowed numerous devices to maintain optimal mobility and charge carrier density conditions over time.
 
 * **J.N. Grossmann III**, A. Heltman, Y. Gao, Q. Li, "Synthesis of Stable High Mobility 2D Electron Gas at SrTiO3 Interfaces and Electrical Characterization of Hall Bar Devices at Varying Growth Conditions," 2026 17th Annual Penn State REU Symposium. https://doi.org/10.5281/zenodo.21519449
-  
+
+<p float="left">
+  <img src="images/1000016627.jpg" width="80%" />
+</p>
+
 Collider Physics at the Higgs Frontier -- University of Florida Research Course
 ======
 
