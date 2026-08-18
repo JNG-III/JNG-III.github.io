@@ -36,6 +36,6 @@ I synthesized various STO(111) 2DEG devices that were stable in ambient conditio
 Collider Physics at the Higgs Frontier -- University of Florida Research Course
 ======
 
-During the Spring 2026 semester, I took a collider physics research course taught by Prof. Philip Chang, which contained lectures on conceptual elements of modern CMS and LHC experiments and directed research projects with CMS 2018 Run D data sets. 
+During the Spring 2026 semester, I took a collider physics [research course](https://ufl.instructure.com/courses/554803/assignments/syllabus) taught by Prof. Philip Chang, which contained lectures on conceptual elements of modern CMS and LHC experiments and directed research projects with CMS 2018 Run D data sets. 
 
 Through this work, I developed experience in Python, C++, and ROOT programming through the University of Florida HiPerGator supercomputing cluster. I also gained knowledge in machine learning and signal training; for the capstone project of the course, I was tasked with using a Binary Decision Tree (BDT) classifier algorithm to isolate the extraordinarily rare di-Higgs signal from typical Standard Moderl background in a CMS dataset. For this project, my best result attained a 95% confidence level population mean value of 11.535, denoting an effective analysis.
