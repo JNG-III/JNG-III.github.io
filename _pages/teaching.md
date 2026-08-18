@@ -9,8 +9,6 @@ redirect_from:
   - /academics
 ---
 
-Teaching
-======
 * Spring 2026: [PHY2049L](https://ufl.instructure.com/courses/562102/assignments/syllabus) -- Calculus-Based Physics 2 Laboratory
 * Spring 2026: [PHY2054L](https://ufl.instructure.com/courses/554741/assignments/syllabus) -- Algebra-Based Physics 2 Laboratory
 
