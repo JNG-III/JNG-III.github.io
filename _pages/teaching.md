@@ -1,8 +1,9 @@
 ---
 layout: archive
-
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
+hide_title: true
 redirect_from:
   - /coursework
   - /academics
