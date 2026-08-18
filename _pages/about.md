@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Overview"
 excerpt: "Undergraduate Physics Student"
 author_profile: true
 ---
